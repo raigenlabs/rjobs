@@ -1,0 +1,8 @@
+{
+  "name": "Remix rJobs",
+  "description": "Tailor resumes, monitor job openings, and streamline application forms for Indian students and early-career professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
